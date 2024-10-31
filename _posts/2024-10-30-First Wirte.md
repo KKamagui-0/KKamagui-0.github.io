@@ -1,6 +1,5 @@
 ---
 title: "[일상] 끝 그리고 시작"
-author: KKAMAGUI
 date: 2024-10-30 00:34:00 +0900
 categories: [Blog, MY Story]
 tags: [my story]
