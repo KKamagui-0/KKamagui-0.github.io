@@ -1,14 +1,14 @@
 ---
-title: 끝 그리고 시작
+title: [일상] 끝 그리고 시작
 author:
     name: 까마귀
     link: https://github.com/KKamagui-0
 date: 2024-10-31 00:34:00 +0900
-categories: [Blogging, Tutorial]
-tags: [favicon]
+categories: [Blog, MY Story]
+tags: [my story]
 ---
 
-# 끝 그리고 시작
+# 학원 수료
 
 2024년 4월부터 시작해서 2024년 10월, 길다면 길고 짧다면 짧은 약 6개월간의 학원 수강 생활이 끝이났다. 원래 다니던 직장에서 큰 마음을 먹고 전직을 하기 위한 선택으로 진행한 학원의 수강 생활은 재미 반 실망 반이였다.
 
