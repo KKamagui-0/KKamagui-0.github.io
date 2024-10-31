@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 까마귀 둥지 # the main title
 
-tagline: 까먹지 않기 위해 둥지짓는 글을 정리하고 기록하는 블로그 # it will display as the subtitle
+tagline: 까먹지 않기 위해 둥지짓듯 글을 정리하고 기록하는 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   까마귀의 둥지.
