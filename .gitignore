@@ -25,3 +25,11 @@ package-lock.json
 # Misc
 _sass/dist
 # assets/js/dist
+
+#obsidian
+.makemd
+.obsidian
+.space
+.trash
+Tags
+Excalidraw
